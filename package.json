@@ -1,0 +1,19 @@
+{
+  "name": "dash",
+  "version": "1.0.0",
+  "description": "Dashboard Template",
+  "engines": {
+    "node": "8.10.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jhovahn Gibbs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "nodemon": "^1.19.0"
+  }
+}
